@@ -53,9 +53,5 @@ public class N11LoginStepDefinitions {
 
         );
 
-        /*actor.should(
-                GivenWhenThen.seeThat(the(n11UserHomePageElements.USERNAME_LINK)
-                        ,containsText("serenity tester"))
-        );*/
     }
 }
